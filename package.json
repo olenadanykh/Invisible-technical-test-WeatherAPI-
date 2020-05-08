@@ -1,0 +1,24 @@
+{
+  "name": "Invisible-technical-test-WeatherAPI-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "y": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olenadanykh/Invisible-technical-test-WeatherAPI-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olenadanykh/Invisible-technical-test-WeatherAPI-/issues"
+  },
+  "homepage": "https://github.com/olenadanykh/Invisible-technical-test-WeatherAPI-#readme"
+}
